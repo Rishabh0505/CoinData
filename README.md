@@ -1,8 +1,8 @@
 # CoinData
 ### Created Using ReactJS,Chart.js,Bootstrap and Hooks using CoinGecko API.
 * Cryptocurrency tracker Application build using Chart.js.
-* User can select any cryptocurrency to view its Current Price and Price Change in Indian Rupees.
-* Interactive Chart Component which allows user to visualize Price change for Past 24 hrs,7 days and 1 year.
+* User can select any cryptocurrency to view its Current price and price Change in Indian Rupees.
+* Interactive Chart Component which allows user to visualize price change for past 24 hrs,7 days and 1 year.
 * User can add as well as delete any number of cryptocurrency in their dashboard.
 * Includes other miscellaneous information about the selected Cryptocurrency.
 
