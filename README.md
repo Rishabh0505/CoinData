@@ -1,68 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CoinData
+### Created Using ReactJS,Chart.js,Bootstrap and Hooks using CoinGecko API.
+* Cryptocurrency tracker Application build using Chart.js.
+* User can select any cryptocurrency to view its Current Price and Price Change in Indian Rupees.
+* Interactive Chart Component which allows user to visualize Price change for Past 24 hrs,7 days and 1 year.
+* User can add as well as delete any number of cryptocurrency in their dashboard.
+* Includes other miscellaneous information about the selected Cryptocurrency.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Prerequisites
 
-### `npm start`
+### Install Node JS ###
+Refer to <https://nodejs.org/en/> to install nodejs
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Install create-react-app ###
+Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```bash
+npm install -g create-react-app
+```
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Click on the link to see the application
 
-### `npm run build`
+## Cloning and Running the Application in local ##
+Clone the project into local
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+npm install
+```
+In order to run the application Type the following command
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```bash
+npm start
+```
+<img width="1374" alt="Screenshot 2021-08-21 at 10 33 38 PM" src="https://user-images.githubusercontent.com/51152041/130329843-bdfafd3f-01fe-4329-afa4-78ba4da00855.png">
+<img width="1341" alt="Screenshot 2021-08-21 at 10 33 58 PM" src="https://user-images.githubusercontent.com/51152041/130329846-a7c72972-e298-4cbf-b55e-9b2811c9d88a.png">
+<img width="1320" alt="Screenshot 2021-08-21 at 10 34 05 PM" src="https://user-images.githubusercontent.com/51152041/130329848-e0d1925d-9778-485a-b3f4-532663dd33cf.png">
+<img width="1277" alt="Screenshot 2021-08-21 at 10 34 16 PM" src="https://user-images.githubusercontent.com/51152041/130329853-181f5053-60c9-4a1e-8f0f-0e3251976c9d.png">
